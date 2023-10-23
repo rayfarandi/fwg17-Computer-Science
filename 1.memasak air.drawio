@@ -1,0 +1,16 @@
+<mxfile host="app.diagrams.net" modified="2023-10-23T06:55:23.332Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="NnaaS1zVKisZV62twrZS" version="22.0.6" type="device">
+  <diagram name="Page-1" id="2B_mH-GrN4Zb8CEC96xn">
+    <mxGraphModel dx="587" dy="312" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="h-VZmBgmPrFCkFhkEX-o-1" value="Alogaritma Memasak Air&lt;br style=&quot;font-size: 17px;&quot;&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="280" y="108" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h-VZmBgmPrFCkFhkEX-o-2" value="1. Mulai&lt;br&gt;2. Siapkan Panci&lt;br&gt;3. Nyalakan Keran air&lt;br&gt;4. isi panci yg telah di siapkan dengan air sebanyak 500ml&lt;br&gt;5. nyalakan Kompor&lt;br&gt;6. Letakan panci yg berisi air ke atas kompor&lt;br&gt;7. tunggu sampai air di dalam kompor mendidih&lt;br&gt;8. jika sudah mendidih matikan kompor&lt;br&gt;9. Selesai&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="170" width="210" height="170" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

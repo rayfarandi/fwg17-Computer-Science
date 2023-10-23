@@ -1,0 +1,16 @@
+<mxfile host="app.diagrams.net" modified="2023-10-23T07:12:30.410Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="aHcLn7kzJZRuhMXmlv__" version="22.0.6" type="device">
+  <diagram name="Page-1" id="fKZ66mpuYyGRmzDu6OwM">
+    <mxGraphModel dx="880" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3tdsjA9lhf8h-4wwI8YC-1" value="Memindahkan Teh dan Kopi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="310" y="110" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3tdsjA9lhf8h-4wwI8YC-2" value="1.Mulai&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.Siapkan 1 gelas terpisah (C)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3.pindahkan/tuang gelas berisi teh (A) ke dalam gelas (C)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4.pindahkan/tuang gelas berisi kopi (B) ke gelas (A) yg awanya di pakai teh&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;5.pindahkan/tuang gelas (C) yg awalnya gelas terpisah untuk menampung teh ke dalam gelas (B) yg sebelumnya berisi kopi&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;6.teh dan kopi sudah berpindah gelas&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;7.selesai&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="160" width="480" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

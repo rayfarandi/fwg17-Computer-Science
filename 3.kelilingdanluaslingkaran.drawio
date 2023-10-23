@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net" modified="2023-10-23T07:24:19.316Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="uOxKepGvaOmzlM1dEEy6" version="22.0.6" type="device">
+  <diagram name="Page-1" id="3r7aD57YJrv9yJAhNpMX">
+    <mxGraphModel dx="1035" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dok4JEhb-pjAN7a7bzek-1" value="Luas Lingkaran" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="340" y="40" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dok4JEhb-pjAN7a7bzek-2" value="&lt;div&gt;1. Mulai&lt;br&gt;2. Masukkan nilai jari-jari (r) lingkaran.&lt;/div&gt;&lt;div&gt;3. Cek jika nilai (r) bisa di bagi 7&lt;/div&gt;&lt;div&gt;4. Jika &quot;YA&quot; maka hitung luas lingkaran (L) dengan rumus L = 22/7 * r * r.&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;5. Jika &quot;TIDAK&quot; maka hitung luas lingkaran (L) dengan rumus L = 3.14* r * r.&lt;/div&gt;&lt;/div&gt;&lt;div&gt;6. Tampilkan hasil luas Lingkaran (L).&lt;/div&gt;&lt;div&gt;7. Selesai&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="223" y="90" width="405" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="dok4JEhb-pjAN7a7bzek-3" value="Keliling Lingkaran" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="340" y="280" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dok4JEhb-pjAN7a7bzek-4" value="&lt;div&gt;1. Mulai&lt;/div&gt;&lt;div&gt;&lt;div&gt;2. Masukkan nilai jari-jari (r) lingkaran.&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;3. Cek jika nilai (r) bisa di bagi 7&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;4. Jika &quot;YA&quot; maka&amp;nbsp;Hitung keliling Lingkaran (K) dengan rumus K = 2 * 22/7 * r.&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;5. Jika &quot;TIDAK&quot;&amp;nbsp;maka&amp;nbsp;Hitung keliling Lingkaran (K) dengan rumus K = 2 * 3.14 * r.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;6. Tampilkan hasil keliling Lingkaran (K).&lt;/div&gt;&lt;/div&gt;&lt;div&gt;7. Selesai&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="208" y="360" width="435" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
